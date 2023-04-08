@@ -35,5 +35,5 @@ int main(){
 		cin >> ch1;
 	}while(ch1 == 'y');
 	cout << endl;
-	
+	return 0;
 }
